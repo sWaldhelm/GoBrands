@@ -12,7 +12,7 @@ class GoBrands extends \Shopware\Components\Plugin
 	
 	public function uninstall(UninstallContext $uninstall)
 	{
-		
+		 
 	}
 }
 ?>

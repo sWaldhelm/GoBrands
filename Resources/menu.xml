@@ -7,7 +7,7 @@
 		<label lang="de">Marken</label>
 		<controller>Brands</controller>
 		<action>index</action>
-		<class>sprite-star--arrow</class>
+		<class>sprite-star--arrow </class>
 		<parent identifiedBy="controller">Article</parent>
 	</entry>
 </entries>
